@@ -11,7 +11,7 @@ Welcome to my Github. My nickname is Boss. I am particularly interested in infor
 * 🚀  I'm currently working on [Bangkok diecasting and injection co. ltd](http://www.bdi.co.th/)
 * 🧠  I'm learning Python language
 
-<p dir="auto"><a href="https://www.github.com/ThanakornWeeramanokun"><img src="https://camo.githubusercontent.com/4b2569f67a4a3657f0f913b7bf27b5573b5a49f31f8aa4f8d67072e533539284/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f64616e69656c6372616e6e65793f6c6f676f3d676974687562267374796c653d666f722d7468652d626164676526636f6c6f723d303839316232266c6162656c436f6c6f723d316331393137" data-canonical-src="https://img.shields.io/github/followers/ThanakornWeeramanokun?logo=github&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917" style="max-width: 100%;"></a></p>
+<p dir="auto"> data-canonical-src="https://img.shields.io/github/followers/ThanakornWeeramanokun?logo=github&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917" style="max-width: 100%;"></a></p>
 
 ### Skills
 
